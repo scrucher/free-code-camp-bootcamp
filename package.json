@@ -1,0 +1,24 @@
+{
+  "name": "freecodecamp",
+  "version": "1.0.0",
+  "description": "bootcamp",
+  "main": "main.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/scrucher/free-code-camp-bootcamp.git"
+  },
+  "keywords": [
+    "typescript",
+    "nodejs",
+    "backend"
+  ],
+  "author": "Faical El Jabli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/scrucher/free-code-camp-bootcamp/issues"
+  },
+  "homepage": "https://github.com/scrucher/free-code-camp-bootcamp#readme"
+}
