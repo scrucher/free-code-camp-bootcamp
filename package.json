@@ -2,6 +2,7 @@
   "name": "freecodecamp",
   "version": "1.0.0",
   "description": "bootcamp",
+  "author": "Jane Doe",
   "main": "main.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -15,7 +16,6 @@
     "nodejs",
     "backend"
   ],
-  "author": "Jane Doe",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/scrucher/free-code-camp-bootcamp/issues"
